@@ -1,10 +1,11 @@
 N = int(input())
 w = list(map(int,input().split()))
 w.sort()
-total = 0
-total_list = []
-for i in range(len(w)):
+total = 1
+
+for i in range(N):
+    if total < w[i]:
+        break
     total += w[i]
-    total_list.append(total)
-print(w)
-print(total_list)
+    
+print(total+1)
