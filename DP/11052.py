@@ -8,7 +8,7 @@ dp[2] = max(cost[1]*2,cost[2])
 dp[3] = max(dp[2],cost[3])
 
 for i in range(3,N+1):
-    
+    dp[i] = max(dp[i-1],)
 
 for i in range(N+1):
     print(dp[i])
