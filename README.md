@@ -11,6 +11,7 @@
         2021.10.8 || programmers 2018_kakao/뉴스클러스터링 수정<br>
         &emsp;&emsp;&emsp;&emsp;&emsp;|| swea 문제풀이<br>
         2021.10.9 || programmers 2018_kakao/방금그곡 수정<br>
+        2021.10.10 || programmers 2018_kakao/압축<br>
     </div>
 </details>
 
