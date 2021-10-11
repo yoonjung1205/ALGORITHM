@@ -14,6 +14,12 @@
         2021.10.10 || programmers 2018_kakao/압축<br>
     </div>
 </details>
-
-
+<details>
+    <summary>
+        <b style="font-size:1.5em">🌻2021.10.11 ~ 2021.10.17</b>
+    </summary>
+    <div markdown="1">
+   		2021.10.11 || programmers 2018_kakao/압축 마무리<br>
+    </div>
+</details>
 
