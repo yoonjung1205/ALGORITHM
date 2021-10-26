@@ -25,6 +25,7 @@
         2021.10.14 || BOJ DP/1003_피보나치함수
     </div>
 </details>
+
 <details>
     <summary>
         <b style="font-size:1.5em">🌻2021.10.18 ~ 2021.10.24</b>
@@ -39,8 +40,15 @@
     </div>
 </details>
 
-
-
-
+<details>
+    <summary>
+        <b style="font-size:1.5em">🌻2021.10.25 ~ 2021.10.31</b>
+    </summary>
+    <div markdown="1">
+   		2021.10.25 || programmers 2019_kakao/오픈채팅방 <br>
+        2021.10.26 || programmers 2019_kakao/후보키(시도) <br>
+        2021.10.27 || programmers 2019_kakao/후보키 <br>
+    </div>
+</details>
 
 
