@@ -50,5 +50,26 @@
         2021.10.27 || programmers 2019_kakao/후보키 <br>
     </div>
 </details>
+<details>
+    <summary>
+        <b style="font-size:1.5em">🌻2021.11.01 ~ 2021.11.07</b>
+    </summary>
+    <div markdown="1">
+   		2021.11.01 || BOJ 여러주제들/2644_촌수계산 <br>
+        2021.11.01 || BOJ 여러주제들/2667_단지번호붙이기 <br>
+        2021.11.03 || BOJ 여러주제들/1679_숨바꼭질(7일후에 다시 풀어보기) <br>
+    </div>
+</details>
+
+<details>
+    <summary>
+        <b style="font-size:1.5em">🌻2021.11.08 ~ 2021.11.14</b>
+    </summary>
+    <div markdown="1">
+   		2021.11.09 || BOJ UF,Dijkstra/1753_최단경로(다익스트라) <br>
+        2021.11.09 || BOJ UF,Dijkstra/16398_행성연결(크루스칼) <br>
+    </div>
+</details>
+
 
 
