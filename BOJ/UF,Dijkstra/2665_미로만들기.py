@@ -19,6 +19,7 @@ def dijkstra(r,c):
             nx = x + dx[i]
             ny = y + dy[i]
             if 0 <= nx < N and 0 <= ny < N:
+                # nd = d + (1 ^ int(arr[ni][nj])) XOR 같으면 0 다르면 1
                 if miro[nx][ny] == 0:
                     n_dist = dist + miro[nx][ny] + 1    
                 else:
