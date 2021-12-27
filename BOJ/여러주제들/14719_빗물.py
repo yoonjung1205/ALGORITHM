@@ -17,3 +17,24 @@ for i in range(W-1,idx,-1):
         temp2 = block[i]
 
 print(rain)
+
+# 투포인터 사용(지슬)
+# h, w = map(int, input().split())
+# blocks_h = list(map(int, input().split()))
+#
+# l = 0
+# r = w-1
+#
+# max_l = max_r = 0
+# rainwater = 0
+# while l < r:
+#     max_l = max(max_l, blocks_h[l])
+#     max_r = max(max_r, blocks_h[r])
+#     if max_l < max_r:
+#         rainwater += max_l - blocks_h[l]
+#         l += 1
+#     else:
+#         rainwater += max_r - blocks_h[r]
+#         r -= 1
+#
+# print(rainwater)

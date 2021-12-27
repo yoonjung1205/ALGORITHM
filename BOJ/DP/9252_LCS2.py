@@ -21,3 +21,7 @@ print(dp[-1][-1])
 
 
 
+for i in range(1,len(arr)+1):
+    for j in range(1,len(arr2)+1):
+        print(dp[i][j], end = " ")
+    print()
