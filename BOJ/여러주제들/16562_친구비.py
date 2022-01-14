@@ -12,7 +12,7 @@
 5 4
 '''
 
-# 33퍼에서 오류
+# 33퍼에서 오류 해결~~ 한번더 find할 때 잘못함 ㅠㅠ
 def find(x):
     if parent[x] == x:
         return x
