@@ -47,3 +47,5 @@ def solution(expression):
     answer = max(result)
 
     return answer
+
+solution("100-200*300-500+20")
