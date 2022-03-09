@@ -44,7 +44,7 @@ for i in range(len(arr)):
     union(c1, c2)
     cnt += 1
 
-    # 한번 정복한 도시는 다시 정복하지 않는다.
+    # 한 번 정복한 도시는 다시 정복하지 않는다.
     if cnt == N-1:
         break
 
