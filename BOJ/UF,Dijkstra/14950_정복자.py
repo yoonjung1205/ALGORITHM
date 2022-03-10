@@ -8,7 +8,7 @@ def find(x):
 def union(x,y):
     x = find(x)
     y = find(y)
-
+    # parent[x] = y
     if rank[x] > rank[y]:
         parent[y] = x
     elif rank[y] > rank[x]:
@@ -28,7 +28,7 @@ for i in range(M):
     arr.append([A,B,C])
 
 arr.sort(key=lambda x: x[2])
-
+# arr.sort(key=lambda x: (x[0],x[1]))
 # print(arr)
 ans = 0
 cnt = 0
@@ -45,7 +45,7 @@ for i in range(len(arr)):
     cnt += 1
 
     # 한 번 정복한 도시는 다시 정복하지 않는다.
-    if cnt == N-1:
-        break
+    # if cnt == N-1:
+    #     break
 
 print(ans)
