@@ -25,6 +25,7 @@ G | H | I
 위의 그림에서 (E+F+H+I)를 구하고 싶으면 I까지의 누적합(A+B+C+...+H+I)에서
 C까지의 누적합(A+B+C)과 G까지의 누적합(A+D+G)을 빼 준 뒤
 겹치는 부분인 A를 더해주면 된다.
+출처 (https://hbj0209.tistory.com/142)
 '''
 answer = -4000001
 for x1 in range(1,N+1):
