@@ -17,9 +17,9 @@ def bfs(start, count):
             return
         elif not visit[now] and (1 <= nu <= F or 1 <= nd <= F):
             visit[now] = 1
-            if 0 <= nu <= F:
+            if 1 <= nu <= F:
                 q.append([nu,cnt + 1])
-            if 0 <= nd <= F:
+            if 1 <= nd <= F:
                 q.append([nd,cnt + 1])
 
 bfs(S,0)
