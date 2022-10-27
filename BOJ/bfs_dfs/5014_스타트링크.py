@@ -4,7 +4,7 @@ F,S,G,U,D = map(int,input().split())
 result = "use the stairs"
 visit = [0] * (F+1)
 def bfs(start, count):
-    global result, now
+    global result
     q = deque()
     q.append([start,count])
 
